@@ -1,5 +1,4 @@
-print("Hola Mundo")
-print("Nueva informacion")
+
 
 def main():
   for i in range(0, 10):
